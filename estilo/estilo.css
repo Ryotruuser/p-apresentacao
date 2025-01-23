@@ -33,7 +33,7 @@ body{
 .cabecalho-menu-link {
     font-family: var(--fonte-secundaria);
     font-weight: 600;
-    font-size: 24px;
+    font-size: 1.5rem;
     color: var(--cor-terciaria);
     text-decoration: none;
 }
@@ -58,7 +58,7 @@ body{
 .apresentacao-conteudo-paragrafo-bio{
     line-height: 36px;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao-conteudo{
@@ -89,7 +89,7 @@ body{
     border: 1px solid var(--cor-terciaria);
     text-align: center;
     border-radius: 8px;
-    font-size: 24px;
+    font-size: 1.5rem;
     text-decoration: none;
     color: var(--cor-secundaria);
 }
@@ -98,7 +98,7 @@ body{
     font-family: var(--fonte-principal);
     font-weight: 400;
     font-style: normal;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao-links-botao:hover{
@@ -112,5 +112,5 @@ body{
     padding: 24px;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
 }
