@@ -13,6 +13,7 @@
 
     --fonte-principal: 'Krona One', sans-serif;
     --fonte-secundaria: "Montserrat", serif;
+    --fonteSize-padrao: 1.5rem;
 }
 
 body{
@@ -33,7 +34,7 @@ body{
 .cabecalho-menu-link {
     font-family: var(--fonte-secundaria);
     font-weight: 600;
-    font-size: 1.5rem;
+    font-size: var(--fonteSize-padrao);
     color: var(--cor-terciaria);
     text-decoration: none;
 }
@@ -58,7 +59,7 @@ body{
 .apresentacao-conteudo-paragrafo-bio{
     line-height: 36px;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: var(--fonteSize-padrao);
 }
 
 .apresentacao-conteudo{
@@ -89,7 +90,7 @@ body{
     border: 1px solid var(--cor-terciaria);
     text-align: center;
     border-radius: 8px;
-    font-size: 1.5rem;
+    font-size: var(--fonteSize-padrao);
     text-decoration: none;
     color: var(--cor-secundaria);
 }
@@ -98,7 +99,7 @@ body{
     font-family: var(--fonte-principal);
     font-weight: 400;
     font-style: normal;
-    font-size: 1.5rem;
+    font-size: var(--fonteSize-padrao);
 }
 
 .apresentacao-links-botao:hover{
@@ -112,5 +113,5 @@ body{
     padding: 24px;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: var(--fonteSize-padrao);
 }
