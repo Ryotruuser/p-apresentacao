@@ -132,6 +132,13 @@ body{
 
     .apresentacao{
         flex-direction: column-reverse;
+        padding: 5%;
+    }
+
+    .apresentacao-conteudo{
+        width: auto;
+
+    
     }
 
 }
